@@ -1,0 +1,1 @@
+tcpdump -i any -G 1800 -w 'log_%FT%T-07:00.pcap'
